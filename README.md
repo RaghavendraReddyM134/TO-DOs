@@ -1,4 +1,4 @@
-/*  # TO-DOs---React based Mini Activity[lottery game].[To-Dos task based user-interface] */
+/*  # TO-DOs---React based Mini Activity[lottery game].[To-Dos task based user-interface],[LudoBoard] */
 
 
 #set up local environment
